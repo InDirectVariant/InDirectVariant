@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @InDirectVariant
+- 🎓 4th Year Networking and IT Security Student (Bachelors)
+- 👀 Improving Python and Web Dev skills
+- 🌱 Learning Git, React/Vue, NodeJS, and Terraform/Ansible
